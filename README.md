@@ -68,7 +68,7 @@ python .trae/skills/dictionary/water_knowledge/搜/scripts/main.py --input '{"qu
 ## 🤝 共建计划 (Co-creation Manifesto)
 
 这就好比编纂一部 AI 时代的《康熙字典》，一个人的力量是有限的。我们需要你！
-
+可加飞书群：https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=d92o5328-cb75-42c2-b229-3f5e9c594c84
 ### 如何参与？
 1.  **Fork & Clone**: 从 [GitHub](https://github.com/CyangZhou/cloudshu-dictionary-skills) 克隆项目。
 2.  **提交新字**: 发现了一个缺失的能力？提交一个 PR，创建一个新的“单字”技能。
